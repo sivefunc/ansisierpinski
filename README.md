@@ -13,7 +13,7 @@ AnsiSierpinski is a Simple Unix terminal sierpinski triangle viewer written in P
 ## Arguments
 - `-h, 	--help        → show this help message and exit`
 - `-v, 	--version     → show program's version number and exit`
-- `-r, 	--rows        → rows of sierpinski triangle
+- `-r, 	--rows        → rows of sierpinski triangle`
 - `-f, 	--fill        → sierpinski triangle size the same as terminal screen`
 - `-sn, --shownum     → sierpinski triangle without graphics`
 
