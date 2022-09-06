@@ -1,6 +1,6 @@
 # AnsiSierpinski
 
-AnsiSierpinski is a Simple Unix terminal sierpinski triangle viewer written in Python that utilizes ansi escape sequences to render the sierpinski triangle into the terminal.
+AnsiSierpinski is a Simple Unix terminal [sierpinski triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) viewer written in Python that utilizes ansi escape sequences to render the sierpinski triangle into the terminal.
 
 ![Logo](Images/logo.png)
 
